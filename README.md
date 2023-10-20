@@ -1,5 +1,8 @@
-# Marjan_repo
 
-This is a test Repository
+# R Projects Repository
 
-First line 123
+This repository hosts  projects focused on utilizing the R programming language. Each project serves as an opportunity to explore and apply different concepts and methodologies in data analysis, statistics, and modeling using R.
+
+## Cluster Analysis Project
+
+## Maximizing the Flight Time of a Paper Helicopter Using Response Surface Methodology
